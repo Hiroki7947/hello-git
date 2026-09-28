@@ -1,2 +1,2 @@
-hello　image
+hello　main
 
